@@ -3,3 +3,4 @@ VirtualEnv/
 *.idea
 *.ipynb_checkpoints
 *.pyc
+*.zip
